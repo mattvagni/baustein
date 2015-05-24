@@ -1,3 +1,5 @@
+/*jshint esnext:true */
+
 if (typeof window === 'undefined') {
     throw new Error('components requires an environment with a window');
 }
